@@ -1,0 +1,14 @@
+#root{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    background-color: rgb(4, 174, 89);
+}
+
+div img{
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    border-style: double;
+}
